@@ -1,4 +1,4 @@
-<h3 align="left">Pedro Augusto<br><br>📊 Analista Gráfico de B3 e Forex<br>📚 Cursando Análise e Desenvolvimento de Sistemas<br>📖 Aluno Rocketseat</h3>
+<h4 align="left">Pedro Augusto<br><br>📊 Analista Gráfico de B3 e Forex<br>📚 Cursando Análise e Desenvolvimento de Sistemas<br>📖 Aluno Rocketseat</h4>
 
 ###
 
